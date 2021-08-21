@@ -10,3 +10,7 @@ Notes and resources for the Algorithm Analysis and Design course at IIIT Hyderab
             - Decision Problems
             - Axioms of Computation
             - Comparison of Solutions
+    * Lecture 2 (21 Aug, Saturday)
+        - Countability and Computability
+        - The Church-Turing Hypothesis
+            - Turing Machines
