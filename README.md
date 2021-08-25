@@ -14,3 +14,14 @@ Notes and resources for the Algorithm Analysis and Design course at IIIT Hyderab
         - Countability and Computability
         - The Church-Turing Hypothesis
             - Turing Machines
+* Week 2
+    * Lecture 3 (25 Aug, Wednesday)
+        - Multiple Ways of Solving Tractable Problems
+            - Computing the nth Fibonacci Number
+                - Solution 1
+                - Solution 2
+                - Solution 3
+                - Solution 4
+            - Multiplying Large Integers
+                - Solution 1
+                - Solution 2
