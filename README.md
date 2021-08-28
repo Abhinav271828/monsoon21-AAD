@@ -24,4 +24,10 @@ Notes and resources for the Algorithm Analysis and Design course at IIIT Hyderab
                 - Solution 4
             - Multiplying Large Integers
                 - Solution 1
-                - Solution 2
+                - Solution 2 (The Karatsuba Algorithm)
+    * Lecture 4 (28 Aug, Saturday)
+        - Divide and Conquer
+            - Master Theorem
+            - Merge Sort
+            - Matrix Multiplication
+            - Finding Median
