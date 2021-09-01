@@ -31,3 +31,7 @@ Notes and resources for the Algorithm Analysis and Design course at IIIT Hyderab
             - Merge Sort
             - Matrix Multiplication
             - Finding Median
+* Week 3
+    * Lecture 5 (01 Sep, Wednesday)
+        - Divide and Conquer
+            - Polynomial Multiplication
