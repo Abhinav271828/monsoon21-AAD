@@ -35,3 +35,9 @@ Notes and resources for the Algorithm Analysis and Design course at IIIT Hyderab
     * Lecture 5 (01 Sep, Wednesday)
         - Divide and Conquer
             - Polynomial Multiplication
+    * Lecture 6 (04 Sep, Saturday)
+        - Greedy Algorithms
+            - Minimum Spanning Trees (Kruskal's Algorithm)
+                - Proof of Correctness
+                - Disjoint Set Implementation
+                - Path Compression
