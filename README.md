@@ -41,3 +41,10 @@ Notes and resources for the Algorithm Analysis and Design course at IIIT Hyderab
                 - Proof of Correctness
                 - Disjoint Set Implementation
                 - Path Compression
+* Week 4
+    * Lecture 7 (11 Sep, Saturday)
+        - Greedy Algorithms (contd.)
+            - Basic Greedy Design
+            - Activity Selection
+            - Huffman Codes
+                - Entropy
