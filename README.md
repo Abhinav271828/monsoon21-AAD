@@ -48,3 +48,10 @@ Notes and resources for the Algorithm Analysis and Design course at IIIT Hyderab
             - Activity Selection
             - Huffman Codes
                 - Entropy
+* Week 5
+    * Lecture 8 (14 Sep, Wednesday)
+        - Greedy Algorithms (contd.)
+            - Set Cover Problem
+                - The Greedy Algorithm
+                - Analysis
+
