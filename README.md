@@ -49,9 +49,12 @@ Notes and resources for the Algorithm Analysis and Design course at IIIT Hyderab
             - Huffman Codes
                 - Entropy
 * Week 5
-    * Lecture 8 (14 Sep, Wednesday)
+    * Lecture 8 (15 Sep, Wednesday)
         - Greedy Algorithms (contd.)
             - Set Cover Problem
                 - The Greedy Algorithm
                 - Analysis
-
+    * Lecture 9 (18 Sep, Saturday)
+        - Dynamic Programming
+            - Shortest Path in a DAG
+            - Longest Increasing Subsequence (LIS)
