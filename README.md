@@ -58,3 +58,7 @@ Notes and resources for the Algorithm Analysis and Design course at IIIT Hyderab
         - Dynamic Programming
             - Shortest Path in a DAG
             - Longest Increasing Subsequence (LIS)
+* Week 6
+    * Lecture 10 (22 Sep, Wednesday)
+        - Dynamic Programming (contd.)
+            - Edit Distance
