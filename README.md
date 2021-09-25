@@ -62,3 +62,9 @@ Notes and resources for the Algorithm Analysis and Design course at IIIT Hyderab
     * Lecture 10 (22 Sep, Wednesday)
         - Dynamic Programming (contd.)
             - Edit Distance
+    * Lecture 11 (25 Sep, Saturday)
+        - Dynamic Programming (contd.)
+            - Chain Matrix Multiplication
+            - The Knapsack Problem
+                - With Repetition
+                - Without Repetition
