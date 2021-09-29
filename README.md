@@ -68,3 +68,9 @@ Notes and resources for the Algorithm Analysis and Design course at IIIT Hyderab
             - The Knapsack Problem
                 - With Repetition
                 - Without Repetition
+* Week 7
+    * Lecture 12 (29 Sep, Wednesday)
+        - Dynamic Programming (contd.)
+            - Shortest Reliable Path
+            - All Pairs Shortest Path
+            - Independent Set in Trees
