@@ -74,3 +74,13 @@ Notes and resources for the Algorithm Analysis and Design course at IIIT Hyderab
             - Shortest Reliable Path
             - All Pairs Shortest Path
             - Independent Set in Trees
+* Week 8
+    * Lecture 13 (09 Oct, Saturday)
+        - Number Theoretic Algorithms
+            - Euclid's GCD Algorithm
+                - Correctness
+                - Analysis
+            - Euclid's Extended Algorithm
+                - Multiplicative Inverses
+            - Public-Key Cryptography
+                - The RSA System
