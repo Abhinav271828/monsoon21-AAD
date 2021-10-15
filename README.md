@@ -84,3 +84,8 @@ Notes and resources for the Algorithm Analysis and Design course at IIIT Hyderab
                 - Multiplicative Inverses
             - Public-Key Cryptography
                 - The RSA System
+* Week 9
+    * Lecture 14 (13 Oct, Wednesday)
+        - Number Theoretic Algorithms (contd.)
+            - Rabin-Miller Primality Testing Algorithm
+                - Correctness
