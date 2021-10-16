@@ -89,3 +89,8 @@ Notes and resources for the Algorithm Analysis and Design course at IIIT Hyderab
         - Number Theoretic Algorithms (contd.)
             - Rabin-Miller Primality Testing Algorithm
                 - Correctness
+    * Lecture 15 (16 Oct, Saturday)
+        - Polynomial-Time Reductions
+            - The Class **NP**
+            - Polynomial-Time Reducibility
+            - NP-Completeness
