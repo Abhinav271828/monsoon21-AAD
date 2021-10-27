@@ -94,3 +94,9 @@ Notes and resources for the Algorithm Analysis and Design course at IIIT Hyderab
             - The Class **NP**
             - Polynomial-Time Reducibility
             - NP-Completeness
+* Week 11
+    * Lecture 16 (27 Oct, Wednesday)
+        - Polynomial-Time Reductions (contd.)
+            - Proving NP-Completeness
+                - The Vertex Cover Problem
+                - The Subset-Sum Problem
