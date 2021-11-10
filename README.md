@@ -100,3 +100,13 @@ Notes and resources for the Algorithm Analysis and Design course at IIIT Hyderab
             - Proving NP-Completeness
                 - The Vertex Cover Problem
                 - The Subset-Sum Problem
+* Week 13
+    * Lecture 17 (10 Nov, Wednesday)
+        - Quantum Algorithms
+            - The Photon Experiment
+            - Qubits
+            - Quantum Postulates
+            - Multiple Qubits
+            - Quantum Entanglement
+            - Quantum Gates and Circuits
+            - Quantum Teleportation
