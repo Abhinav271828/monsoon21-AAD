@@ -110,3 +110,10 @@ Notes and resources for the Algorithm Analysis and Design course at IIIT Hyderab
             - Quantum Entanglement
             - Quantum Gates and Circuits
             - Quantum Teleportation
+    * Lecture 20 (13 Nov, Saturday)
+        - Quantum Algorithms (contd.)
+            - Shor's Algorithm
+                - Part 1
+                - Part 2
+                - Part 3
+                - Part 4
