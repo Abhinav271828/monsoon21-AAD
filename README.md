@@ -117,3 +117,10 @@ Notes and resources for the Algorithm Analysis and Design course at IIIT Hyderab
                 - Part 2
                 - Part 3
                 - Part 4
+* Week 14
+    * Lecture 19 (20 Nov, Saturday)
+        - Byzantine Agreement
+            - The Problem
+            - Solutions
+                - Protocol for 1 out of 4
+            - Connectivity Challenge
