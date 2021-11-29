@@ -1,0 +1,206 @@
+---
+title: Algorithm Analysis and Design (CS1.301)
+subtitle: |
+        | Project Report
+        | Functional Implementation of Algorithms
+author: Abhinav S Menon 
+---
+
+# Project
+The project consists of an implementation of all the algorithms covered in class in Haskell (a functional programming language). In addition to the code, the code has also been benchmarked to find the running time and relative efficiency of different methods.  
+
+The project is hosted on GitHub and can be found [**here**](https://github.com/Abhinav271828/AAD-Project_2020114001).
+
+# Repo Structure
+Each different type of algorithm has a separate subdirectory, which in turn contains subdirectories for each algorithm. These subdirectories have the source code file, the object file, the graphs of the running times, and READMEs, which contain an explanation and analysis of the code (and comparison of different methods where applicable). The analysis includes a theoretical view of the code and the actual measured running time.  
+
+The code (bash script) used for benchmarking has also been included.
+
+```
+AAD-Project_2020114001
+    DP
+        AllPairs
+            Comp.png
+            Length.png
+            Path.png
+            README.md
+            allpairs
+            allpairs.hs
+        ChainMat
+            Comp.png
+            Cost.png
+            Order.png
+            README.md
+            chainmat
+            chainmat.hs
+        EditDist
+            Align.png
+            AlignOpt.png
+            Comp.png
+            Dist.png
+            README.md
+            editdist
+            editdist.hs
+        IndepSet
+            CompMem.png
+            CompNoMem.png
+            CompSet.png
+            CompSize.png
+            MemSet.png
+            MemSize.png
+            NoMemSet.png
+            NoMemSize.png
+            README.md
+            indep
+            indep.hs
+        Knapsack
+            CompComb.png
+            CompCombRep.png
+            CompVal.png
+            NoRepComb.png
+            NoRepVal.png
+            README.md
+            RepCombEff.png
+            RepCombIneff.png
+            RepVal.png
+            knapsack
+            knapsack.hs
+        LIS
+            LIS
+            LIS.hs
+            LIS.png
+            README.md
+        ReliablePath
+            Comp.png
+            Length.png
+            Path.png
+            README.md
+            relpath
+            relpath.hs
+        ShortestPath
+            Comp100.png
+            Comp25.png
+            Comp50.png
+            CompDist.png
+            CompPath.png
+            Dist100.png
+            Dist25.png
+            Dist50.png
+            Path100.png
+            Path25.png
+            Path50.png
+            README.md
+            shortest
+            shortest.hs
+    DivAndConq
+        Matmult
+            Comp.png
+            CompLog.png
+            Naïve.png
+            README.md
+            Stras.png
+            matmult
+            matmult.hs
+        Mergesort
+            Comp.png
+            Iter.png
+            README.md
+            Rec.png
+            mergesort
+            mergesort.hs
+            mg
+        Orderstat
+            OStat.png
+            README.md
+            orderstat
+            orderstat.hs
+        Polymult
+            FFT.png
+            Naïve.png
+            README.md
+            polymult
+            polymult.hs
+    Greedy
+        ActSel
+            ActSel.png
+            README.md
+            actsel
+            actsel.hs
+        Huffman
+            Comp.png
+            HuffConst.png
+            HuffLog.png
+            README.md
+            huffman
+            huffman.hs
+        Kruskal
+            Comp100.png
+            Comp100Log.png
+            Comp50.png
+            Comp50Log.png
+            CompComp.png
+            CompDisjIns.png
+            CompDisjInsLog.png
+            CompDisjMerg.png
+            CompDisjMergLog.png
+            CompIter.png
+            CompIterLog.png
+            DisjIns100.png
+            DisjIns50.png
+            DisjMerg100.png
+            DisjMerg50.png
+            Iter100.png
+            Iter50.png
+            README.md
+            kruskal
+            kruskal.hs
+        Setcover
+            README.md
+            setcover
+            setcover.hs
+    NumTheo
+        EuclidGCD
+            Comp.png
+            Euc.png
+            EucExt.png
+            README.md
+            euclid
+            euclid.hs
+        RabinMiller
+            README.md
+            Rabin.png
+            rabin
+            rabin.hs
+    Prelims
+        Fibonacci
+            CompAll.png
+            CompEff.png
+            CompMat.png
+            Memoised.png
+            NaïveMat.png
+            NaïveRec.png
+            NaïveRecLog.png
+            OptMat.png
+            README.md
+            StrasMat.png
+            fibonacci
+            fibonacci.hs
+        Multiplication
+            CompAll.png
+            CompAllLog.png
+            CompInt.png
+            CompIntLog.png
+            CompList.png
+            CompListLog.png
+            HaskNat.png
+            HaskNatL.png
+            Kar.png
+            KarL.png
+            README.md
+            SchoolAlg.png
+            SchoolAlgL.png
+            multiplication
+            multiplication.hs
+    README.md
+    bench.sh
+```
